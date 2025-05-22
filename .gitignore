@@ -1,0 +1,6 @@
+app/MNIST
+model.pth
+__*
+*.png
+app/mnist_model.pth
+app/data
